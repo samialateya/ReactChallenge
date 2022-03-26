@@ -16,7 +16,7 @@ User has the following features provided
 First clone this repository, install the dependencies
 
 ```
-git clone https://github.com/samialateya/vue-auth.
+git clone https://github.com/samialateya/ReactChallenge.
 npm i
 npm run start
 npm run build
